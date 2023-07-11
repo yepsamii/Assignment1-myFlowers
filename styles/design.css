@@ -1,0 +1,43 @@
+* {
+    font-family: Lato;
+}
+
+.headpic {
+    width: 100%;
+    height: 100%;
+    object-fit:contain
+}
+
+button {
+    border: none;
+    color: white;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+p {
+    color: rgba(39, 39, 39, 0.6);
+}
+
+header {
+    width: 1920 px;
+    height: 8500 px;
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+h1 {
+    font-weight: 800px;
+
+}
+
+.titlepart {}
+
+.pera1 {
+    font-size: 18px;
+    line-height: 30px;
+}
