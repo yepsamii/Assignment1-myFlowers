@@ -66,3 +66,21 @@ span{
 .details{
     text-align: center;
 };
+.social{
+    padding: 30px 150px 30px 150px;
+}
+.insta .img-grp{
+    width: 500px;
+    
+}
+.insta{
+    justify-content: center;
+}
+.img-grp{
+    display: flex;
+    padding: 30px 150px 30px 150px;
+}
+.pic3{
+    margin: 5px;
+    width: 50%;
+}
