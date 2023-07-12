@@ -104,5 +104,21 @@ input{
     width: 500px;
     height: 7px;
 }
-
+.last1{
+    background: #111010;
+    text-align: center;
+    line-height: 10px;
+    padding: 55px 335px 55px 335px;
+}
+.shop{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+}
+.fcont{
+    color: rgba(255, 255, 255, 0.90);
+    font-weight: light;
+}
+.detail1{
+    color: rgba(255, 255, 255, 0.40);;
+}
 
