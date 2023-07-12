@@ -214,17 +214,13 @@ input {
     font-weight: 800;
     color: black;
 }
-
-
-
 .support {
     display: flex;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     justify-content: center;
-    padding: 30px;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    padding: 50px 150px 30px 150px ;
+    margin: 80px 150px 80px 150px;
 }
 
 .icons {
@@ -236,7 +232,12 @@ input {
 
 .itle {
     color: rgba(39, 39, 39, 0.80);
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 600;
     line-height: 35px;
+}
+
+.i1{
+    width: 60px;
+    height: 60px;
 }
